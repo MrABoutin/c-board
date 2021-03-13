@@ -1,13 +1,17 @@
 {
   "author": "",
   "name": "c-board",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.5.3",
+  "description": "Simple tool to create pageable grids",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+[https://github.com/MrABoutin/c-board.git](https://github.com/MrABoutin/c-board.git)"
+  },
+  "keywords": ["grid", "list"],
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.6.0"
